@@ -17,3 +17,4 @@ document.addEventListener('DOMContentLoaded', () => {
         cube.style.transform = 'rotateX(0deg) rotateY(0deg)';
     });
 });
+
