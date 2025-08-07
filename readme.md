@@ -52,8 +52,6 @@ Lightweight Key-Value Store engine (rust), using LRU as a cache eliminate strate
     <img src="https://github-readme-stats.vercel.app/api?username=starwindv&show_icons=true&theme=light" alt="Github Statistics"/>
   </div>
   
----
-
 ## 🤝 Link me
 
 <div align="center" style="margin: 2rem 0;">
