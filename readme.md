@@ -38,7 +38,7 @@ I am a university student and individual developer from China.
 Here are some of my selected projects. <br>
 
 ### 🔹 [Wind-KVStore](https://github.com/starwindv/wind-kvstore)
-[![random image](https://picsum.photos/600/300?random=1)](https://github.com/starwindv/wind-kvstore)
+[![image](https://raw.githubusercontent.com/StarWindv/StarWindv/refs/heads/main/src/windkv.bmp)](https://github.com/starwindv/wind-kvstore)
 
 Lightweight Key-Value Store engine (rust), using LRU as a cache eliminate strategy ,and to provide server and interactive shellProvide comprehensive and rich documentation and easy-to-use SDK.
 
