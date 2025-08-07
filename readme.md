@@ -1,8 +1,8 @@
 # 👋 Hello, I'm StarWindv!
 
-<div align="center">
-  <img src="https://picsum.photos/1200/300?grayscale&blur=2" alt="个人简介横幅" width="100%"/>
-</div>
+<!--<div align="center">
+  <img src="https://picsum.photos/1200/300?grayscale&blur=2" alt="banner" width="100%"/>
+</div>-->
 
 <div align="center">
   <p>
@@ -11,13 +11,7 @@
     💬 Welcome to chat with me!<br>
         (anything, ofcourse include share life)<br>
     📫 link me: <a href="mailto:starwindv.stv@gmail.com">starwindv.stv@gmail.com</a>
-  </p>
-
-  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=starwindv&show_icons=true&theme=light" alt="Github Statistics" height="180"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starwindv&layout=compact&theme=light" alt="language" height="180"/>
-  </div>
+  </p>  
 </div>
 
 ---
@@ -32,7 +26,6 @@ I am a university student and individual developer from China.
 - 🎯 2025: Complete my personal website
 
 ---
-
 ## 💻 My Project
 
 Here are some of my selected projects. <br>
@@ -52,6 +45,12 @@ Lightweight Key-Value Store engine (rust), using LRU as a cache eliminate strate
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=starwindv&theme=react-dark&hide_border=true" alt="贡献图表" width="100%"/>
 </div>
 
+---
+
+  <div align="center"; style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starwindv&layout=compact&theme=light" alt="language"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=starwindv&show_icons=true&theme=light" alt="Github Statistics"/>
+  </div>
 ---
 
 ## 🤝 Link me
