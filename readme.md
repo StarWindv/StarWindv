@@ -59,13 +59,13 @@ Lightweight Key-Value Store engine (rust), using LRU as a cache eliminate strate
   <a href="https://twitter.com/starwindv9" style="margin: 0 10px; color: #1da1f2; text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-
-  <a href="https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d2477203430" style="margin: 0 10px; color: #0a0a0a; text-decoration: none;">
-    <img src="https://img.shields.io/badge/qq-0A0A0A?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/>
-  </a><br>
-  <a href="https://www.starwindv.top" style="margin: 0 10px; color: #4CAF50; text-decoration: none;">
+<a href="https://www.starwindv.top" style="margin: 0 10px; color: #4CAF50; text-decoration: none;">
     <img src="https://img.shields.io/badge/UnderDev-website-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d2477203430" style="margin: 0 10px; color: #0a0a0a; text-decoration: none;">
+    <img src="https://img.shields.io/badge/qq-0A0A0A?style=for-the-badge&logo=qq&logoColor=white" alt="QQ"/>
+  </a>
+  
 </div>
 
 <div align="center">
