@@ -72,6 +72,6 @@ Lightweight Key-Value Store engine (rust), using LRU as a cache eliminate strate
 </div>
 
 <div align="center" style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eaecef; color: #6a737d; font-size: 0.9rem;">
-  <p>Latest update: 2025/8/7</p>
+  <p>Latest update: 2026/7/21</p>
   <p>✨ Thanks！</p>
 </div>
