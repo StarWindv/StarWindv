@@ -23,7 +23,7 @@ I am a university student and individual developer from China.
 - 🔭 I'm learning how to use `GoLang`
 - 🌱 I try to figure out how `RAFT` run
 - 👯 I want to build more and more open source project
-- 🎯 2025: Complete my personal website
+- 🎯 2026: Create a programming language that meets my expectations
 
 ---
 ## 💻 My Project
